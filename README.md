@@ -1,4 +1,4 @@
-![Slide1](https://user-images.githubusercontent.com/49592750/199258512-ff05aa9f-7f8e-46ba-8fd9-60cc086e54f8.PNG)
+
 ![Slide2](https://user-images.githubusercontent.com/49592750/199259108-0843b866-a2c7-45f8-89fd-ff4ae9564420.PNG)
 ![Slide3](https://user-images.githubusercontent.com/49592750/199258539-34335910-09f5-4974-94f8-c4d1c5f038b3.PNG)
 ![Slide4](https://user-images.githubusercontent.com/49592750/199258542-0d444688-dbe4-4323-93d7-7f9c1fc8c904.PNG)
